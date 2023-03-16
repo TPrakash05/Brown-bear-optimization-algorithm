@@ -4,4 +4,4 @@ Please cite original work as: Tapan Prakash, Praveen Prakash Singh, Vinay Pratap
 Contact: tapan.prakash@vit.ac.in; tapanprakashsinha@gmail.com
 
 
-[![View Brown-bear Optimization Algorithm on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://in.mathworks.com/matlabcentral/fileexchange/125435-brown-bear-optimization-algorithm)
+[![View Brown-bear-optimization-algorithm on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://in.mathworks.com/matlabcentral/fileexchange/125490-brown-bear-optimization-algorithm)
