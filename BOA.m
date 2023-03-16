@@ -93,7 +93,7 @@ while t<=iter
     %% Sniffing of pedal marks......  starts
     for ii=1:noP
             k=round(rand()*(noP));
-            while k==i || k<=0
+            while k==ii || k<=0
                 k=round(rand()*(noP));
             end
 
